@@ -10,7 +10,7 @@
         path="device/xiaomi/munch"
         name="android_device_xiaomi_munch"
         remote="SenX-Project"
-        revision="ax" />
+        revision="ms" />
     <project
         path="vendor/xiaomi/munch"
         name="android_vendor_xiaomi_munch"
