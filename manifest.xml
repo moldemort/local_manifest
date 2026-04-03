@@ -17,14 +17,14 @@
       path="device/xiaomi/munch"
       name="android_device_xiaomi_munch"
       remote="moldemort"
-      revision="main" />
+      revision="16-qpr2" />
 
   <!-- Vendor Tree -->
   <project
       path="vendor/xiaomi/munch"
       name="android_vendor_xiaomi_munch"
       remote="moldemort"
-      revision="main" />
+      revision="16-qpr2" />
 
   <!-- Firmware -->
   <project
@@ -38,14 +38,14 @@
       path="kernel/xiaomi/munch"
       name="xiaomi_sm8250_kernel"
       remote="kvsnr113"
-      revision="main" />
+      revision="main-bpf" />
 
   <!-- Hardware Xiaomi -->
   <project
       path="hardware/xiaomi"
       name="android_hardware_xiaomi"
       remote="moldemort"
-      revision="main" />
+      revision="lineage-23.2" />
 
   <!-- Dolby -->
   <project
@@ -64,7 +64,7 @@
 
   <!-- MiuiCamera -->
   <project
-      path="vendor/xiaomi/miuicamera"
+      path="hardware/xiaomi/miuicamera"
       name="android_vendor_xiaomi_miuicamera"
       remote="munch-devs"
       revision="vic" />
