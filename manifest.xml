@@ -17,7 +17,7 @@
       path="device/xiaomi/munch"
       name="android_device_xiaomi_munch"
       remote="moldemort"
-      revision="16-qpr2" />
+      revision="mist" />
 
   <!-- Vendor Tree -->
   <project
