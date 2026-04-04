@@ -9,7 +9,7 @@
           fetch="https://codeberg.org/munch-devs" />
   <remote name="PocoF3Releases"
           fetch="https://github.com/PocoF3Releases" />
-<remote name="kvsnr113"
+  <remote name="kvsnr113"
           fetch="https://github.com/kvsnr113" />
 
   <!-- Device Tree -->
